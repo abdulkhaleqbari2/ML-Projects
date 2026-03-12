@@ -1,2 +1,2 @@
-# ML-Projects
-A collection of robust Machine Learning Projects, from beginner to advanced levels.  
+# Car Price Prediction
+It is a supervised machine learnning model to predict the price using linear & lsso regression mmodels
