@@ -43,9 +43,9 @@ Train-Test Split: 90% training / 10% testing (random_state=2)
 
 4. Model Training & Evaluation
 📈 Linear Regression
-SplitR² ScoreTraining Set~87%Test Set~83%
+SplitR² ScoreTraining Set: 87% Test Set: 83%
 📉 Lasso Regression
-SplitR² ScoreTraining Set~87%Test Set~84%
+SplitR² ScoreTraining Set: 87%Test Set: 84%
 
 Lasso Regression performed slightly better on the test set, suggesting it handled overfitting more effectively through L1 regularization.
 
