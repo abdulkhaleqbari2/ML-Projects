@@ -65,20 +65,7 @@ car-price-prediction/
 ├── car data.csv         # Dataset
 └── README.md            # Project documentation
 
-▶️ How to Run
 
-Clone the repository
-
-bash   git clone https://github.com/your-username/car-price-prediction.git
-   cd car-price-prediction
-
-Install dependencies
-
-bash   pip install pandas numpy matplotlib seaborn scikit-learn
-
-Launch the notebook
-
-bash   jupyter notebook Project1.ipynb
 
 💡 Key Learnings
 
